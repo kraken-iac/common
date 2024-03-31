@@ -27,7 +27,7 @@ import (
 	"strconv"
 
 	"github.com/Jeffail/gabs/v2"
-	krakenv1alpha1 "github.com/kraken-iac/kraken/api/v1alpha1"
+	krakenv1alpha1 "github.com/kraken-iac/kraken/api/core/v1alpha1"
 )
 
 var (
