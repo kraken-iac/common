@@ -2,7 +2,7 @@ module github.com/kraken-iac/common
 
 go 1.20
 
-require github.com/kraken-iac/kraken v0.3.1
+require github.com/kraken-iac/kraken v0.4.0
 
 require (
 	github.com/Jeffail/gabs/v2 v2.7.0
